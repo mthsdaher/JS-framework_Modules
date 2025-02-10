@@ -1,0 +1,15 @@
+{
+  "type": "module", 
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Using ES modules to export functions",
+  "main": "script1.js",
+  "scripts": {
+    "test": "ty"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "matheus",
+  "license": "ISC"
+}
